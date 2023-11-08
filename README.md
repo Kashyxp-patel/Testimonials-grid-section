@@ -24,7 +24,7 @@ This project helped me understand the grid layout in CSS and neat little tricks 
 ### Links
 
 - Solution URL: [Github URL](https://github.com/Kashyxp-patel/Testimonials-grid-section)
-- Live Site URL: [Live site URL]()
+- Live Site URL: [Live site URL](https://kashyxp-patel.github.io/Testimonials-grid-section/)
 
 
 ### Built with
